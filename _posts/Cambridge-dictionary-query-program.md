@@ -1,11 +1,12 @@
 ---
 title: Cambridge dictionary 单词查询程序
-date: 2023-10-29 16:09:31
 categories:
-- 编程
+  - 编程
 tags:
-- Python
-- 爬虫
+  - Python
+  - 爬虫
+abbrlink: 33431
+date: 2023-10-29 16:09:31
 ---
 
 

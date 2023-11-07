@@ -1,11 +1,12 @@
 ---
 title: C++ Templates
-date: 2023-10-27 18:58:35
 categories:
-- 编程
+  - 编程
 tags:
-- C++
-- 模板
+  - C++
+  - 模板
+abbrlink: 37130
+date: 2023-10-27 18:58:35
 ---
 
 ## FastIO from Matrix_mlt

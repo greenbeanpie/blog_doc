@@ -1,12 +1,13 @@
 ---
 title: 平衡树 (Balancing Tree) 模板
-date: 2023-10-30 19:48:44
-categories: 
-- 编程
+categories:
+  - 编程
 tags:
-- C++
-- 模板
-- 数据结构
+  - C++
+  - 模板
+  - 数据结构
+abbrlink: 27962
+date: 2023-10-30 19:48:44
 ---
 
 ## 无旋Treap(FHQ Treap)
