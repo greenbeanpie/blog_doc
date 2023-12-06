@@ -3,6 +3,7 @@ title: 扩展欧拉定理(exGCD)模板
 categories:
   - 编程
 tags:
+  - OI
   - C++
   - 模板
   - 数论
